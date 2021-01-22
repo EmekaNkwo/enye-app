@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap");
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.mytable {
+  width: 100%;
+  text-align: center;
+  font-size: 0.75rem !important;
+  margin: 2rem 1rem 2rem 1rem;
+}
+
+.mytable thead {
+  text-align: center;
+}
+
+.loading_text {
+  font-size: 3rem;
+  text-align: center;
+  opacity: 0.3;
+  position: absolute;
+  top: 50%;
+  left: 43%;
+}
+
+.search_button {
+  display: block;
+  text-align: center;
+  padding: 1rem 10rem;
+  margin: 2rem auto;
+  border: none;
+  color: white;
+
+  background-color: #222222;
+}
+
+.label_check {
+  font-size: 1rem;
+  margin: 0 auto;
+  font-weight: 500;
+}
+
+.input-chigo {
+  margin: 1rem;
+}
+
+.header {
+  text-align: center;
+  margin: 3rem auto;
+  font-size: 2rem;
+}
+
+.filter {
+  margin: 1rem auto;
+  width: 70%;
+  text-align: center;
+}
+
+.filter-header {
+  font-size: 2rem;
+  font-weight: 400;
+}
